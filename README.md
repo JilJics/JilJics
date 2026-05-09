@@ -7,9 +7,7 @@
 ---
 
 ## 🚀 About Me
-I am a passionate web developer with experience in Python, HTML, and CSS.  
-I enjoy building clean, responsive websites and solving technical problems.  
-I also have strong customer service skills and experience supporting users.
+Dedicated customer service specialist with strong communication, relationship management, and problem-solving skills. Passionate about delivering exceptional customer experiences while continuously learning modern digital technologies.
 
 ---
 
@@ -24,9 +22,8 @@ I also have strong customer service skills and experience supporting users.
 
 ## 📌 Projects
 🔹 Customer Support Ticket System (Coming Soon)  
-🔹 Chopbelleful 
-🔹 Divine Glory school  
-
+🔹 Chopbelleful Website  
+🔹 Divine Glory School Website
 ---
 
 ## 📫 Contact Me
